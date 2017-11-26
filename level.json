@@ -1,50 +1,34 @@
-
+[
     {
-        "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Red",
+        "hexValue":"#F44336"
     },
     {
-       "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Pink",
+        "hexValue":"#E91E63"
     },
     {
-        "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Purple",
+        "hexValue":"#9C27B0"
     },
     {
-       "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Deep purple",
+        "hexValue":"#673AB7"
     },
     {
-        "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Indigo",
+        "hexValue":"#3F51B5"
     },
     {
-        "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Blue",
+        "hexValue":"#2196F3"
     },
     {
-       "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Light blue",
+        "hexValue":"#03A9F4"
     },
     {
-       "question":"What number should replace the question mark?",
-        "icon":"Assets/one.png",
-        "answer":"0"
-        "solution":"Looking at lines of numbers from the top : 9×8 = 72; 72×8 = 576; 576×8 = 4608;"
+        "colorName":"Cyan",
+        "hexValue":"#00BCD4"
     }
-
+]
