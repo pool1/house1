@@ -1,7 +1,7 @@
 [
     {
        "question":"What number should replace the question mark?",
-        "icon":"../Assets/one.jpg",
+        "icon":"Assets/one.jpg",
         "answer":"0",
         "solution":"get one to this"
       
@@ -9,7 +9,7 @@
     },
     {
        "question":"What number should replace the question mark?",
-        "icon":"../Assets/one.jpg",
+        "icon":"Assets/one.jpg",
         "answer":"0",
         "solution":"get one to this"
       
