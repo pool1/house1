@@ -2,14 +2,16 @@
     {
        "question":"What number should replace the question mark?",
         "icon":"Assets/one.png",
-        "answer":"0"
+        "answer":"0",
+        "solution":"get one to this"
       
         
     },
     {
        "question":"What number should replace the question mark?",
         "icon":"Assets/one.png",
-        "answer":"0"
+        "answer":"0",
+        "solution":"get one to this"
       
         
     }
